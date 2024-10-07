@@ -7,3 +7,4 @@ Dataset
 
 Download RAF-DB and FER-FERPlus datasets.
 
+URLs: RAF-DB: http://www.whdeng.cn/raf/model1.html.  FERPlus: https://github.com/Microsoft/FERPlus.
